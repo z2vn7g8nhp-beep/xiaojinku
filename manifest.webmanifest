@@ -1,0 +1,15 @@
+{
+  "name": "小金库记账",
+  "short_name": "小金库",
+  "description": "说一句就记账，按自己的账期管限额，没花完的存进小金库。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDEFF2",
+  "theme_color": "#1D2747",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
